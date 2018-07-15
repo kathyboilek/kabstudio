@@ -1,0 +1,258 @@
+a:hover,
+a:focus {
+    color: #999999;
+}
+
+.section-title::after {
+    background: #999999;
+}
+
+.btn-filled {
+    background: #999999;
+}
+
+.btn-filled:before {
+    background: #999999;
+}
+
+.btn-border:after {
+    background: #999999;
+}
+
+.btn-border:hover {
+    border: 1px solid #999999;
+}
+
+#loader-wrapper {
+    background: #999999;
+}
+
+.heading .pricing-dot {
+    color: #999999;
+}
+
+.subscribe a:hover {
+    color: #999999;
+}
+
+.lionHashtag {
+    color: #999999;
+}
+
+.liondot {
+    color: #999999;
+}
+
+#element {
+    color: #999999;
+}
+
+#lionSlider.owl-carousel .owl-dot.active:before {
+    color: #999999;
+}
+
+#lionSlider2.owl-carousel .owl-dot.active:before {
+    color: #999999;
+}
+
+.masked {
+    background-color: #999999;
+}
+
+#main-menu > li > a:hover {
+    color: #999999;
+}
+
+#socials > li > a:hover {
+    color: #999999;
+}
+
+.lionabout::before {
+    border: 10px solid #999999;
+}
+
+.funfact {
+    background-color: #999999;
+}
+
+.funfact.dark h4 {
+    color: #999999;
+}
+
+.member-info-overlay {
+    border: 1px solid #999999;
+}
+
+.member-social > li > a {
+    color: #999999;
+}
+
+.member-info:before {
+    background-color: #999999;
+}
+
+#lionTeam.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #999999;
+}
+
+.service-icon-item.v2:hover {
+    background: #999999;
+}
+
+.service-icon-item:before {
+    background-color: #999999;
+}
+
+.service-icon .fa {
+    color: #999999;
+}
+
+#lionServices.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #999999;
+}
+
+.flipster__nav__link::after {
+    background: #999999;
+}
+
+.overlay .tag {
+    color: #999999;
+}
+
+.overlay.colored {
+    background-color: rgba(153, 153, 153, 0.9);
+}
+
+.filters li:before {
+    background: #999999;
+}
+
+.project-dot {
+    background: #999999;
+}
+
+.portfolio-project-details > ul > li > ul > li > a:hover {
+    color: #999999;
+}
+
+.portfolio-project-details > ul > li > a:hover {
+    color: #999999;
+}
+
+.project-control-right {
+    background: #999999;
+}
+
+.project-control-left {
+    background: #999999;
+}
+
+.advantage-icon .fa {
+    color: #999999;
+}
+
+#lionTestimonial.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #999999;
+}
+
+.testimonial-star span {
+    color: #999999;
+}
+
+.btn-default {
+    background: #999999;
+}
+
+.btn-default:hover {
+    background: #FFD34E;
+}
+
+.fa.fa-check {
+    color: #999999;
+}
+
+.writer {
+    background-color: #999999;
+}
+
+.news-per-post:hover .read-more a,
+.news-per-post:hover .read-more span {
+    color: #999999;
+}
+
+.post-icon {
+    color: #999999;
+}
+
+.load-more a:hover {
+    background: #999999;
+}
+
+.blog-article-media-type {
+    color: #999999;
+    border: 1px solid #999999;
+}
+
+.blog-article-tags ul li a {
+    background: #999999;
+    border: 1px solid #999999;
+}
+
+.blog-article-tags ul li a:hover {
+    color: #999999;
+}
+
+.blog-articles-control a:hover {
+    color: #999999;
+}
+
+.blog-author-info {
+    border-bottom: 4px solid #999999;
+}
+
+.blog-article-comments .comment-content .reply a {
+    background: #999999;
+    border: 1px solid #999999;
+}
+
+.blog-article-comments .comment-content .reply a:hover {
+    color: #999999;
+}
+
+.form-control:focus {
+    border: 1px solid #999999;
+}
+
+.tags-widget ul li a {
+    background: #999999;
+    border: 1px solid #999999;
+}
+
+.tags-widget ul li:hover a {
+    color: #999999;
+}
+
+.form-dot:focus {
+    border-color: #999999;
+}
+
+.contact-me .fa {
+    background: #999999;
+}
+
+.footer-bottom-content p a {
+    color: #999999;
+}
+
+address span i {
+    color: #999999;
+}
+
+.scrolltop a {
+    background: #999999;
+}
+
+.scrolltop a:hover {
+    color: #999999;
+    border: 1px solid #999999;
+}

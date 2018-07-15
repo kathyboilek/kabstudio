@@ -1,0 +1,258 @@
+a:hover,
+a:focus {
+    color: #1DE97E;
+}
+
+.section-title::after {
+    background: #1DE97E;
+}
+
+.btn-filled {
+    background: #1DE97E;
+}
+
+.btn-filled:before {
+    background: #1DE97E;
+}
+
+.btn-border:after {
+    background: #1DE97E;
+}
+
+.btn-border:hover {
+    border: 1px solid #1DE97E;
+}
+
+#loader-wrapper {
+    background: #1DE97E;
+}
+
+.heading .pricing-dot {
+    color: #1DE97E;
+}
+
+.subscribe a:hover {
+    color: #1DE97E;
+}
+
+.lionHashtag {
+    color: #1DE97E;
+}
+
+.liondot {
+    color: #1DE97E;
+}
+
+#element {
+    color: #1DE97E;
+}
+
+#lionSlider.owl-carousel .owl-dot.active:before {
+    color: #1DE97E;
+}
+
+#lionSlider2.owl-carousel .owl-dot.active:before {
+    color: #1DE97E;
+}
+
+.masked {
+    background-color: #1DE97E;
+}
+
+#main-menu > li > a:hover {
+    color: #1DE97E;
+}
+
+#socials > li > a:hover {
+    color: #1DE97E;
+}
+
+.lionabout::before {
+    border: 10px solid #1DE97E;
+}
+
+.funfact {
+    background-color: #1DE97E;
+}
+
+.funfact.dark h4 {
+    color: #1DE97E;
+}
+
+.member-info-overlay {
+    border: 1px solid #1DE97E;
+}
+
+.member-social > li > a {
+    color: #1DE97E;
+}
+
+.member-info:before {
+    background-color: #1DE97E;
+}
+
+#lionTeam.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #1DE97E;
+}
+
+.service-icon-item.v2:hover {
+    background: #1DE97E;
+}
+
+.service-icon-item:before {
+    background-color: #1DE97E;
+}
+
+.service-icon .fa {
+    color: #1DE97E;
+}
+
+#lionServices.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #1DE97E;
+}
+
+.flipster__nav__link::after {
+    background: #1DE97E;
+}
+
+.overlay .tag {
+    color: #1DE97E;
+}
+
+.overlay.colored {
+    background-color: rgba(29, 233, 126, 0.9);
+}
+
+.filters li:before {
+    background: #1DE97E;
+}
+
+.project-dot {
+    background: #1DE97E;
+}
+
+.portfolio-project-details > ul > li > ul > li > a:hover {
+    color: #1DE97E;
+}
+
+.portfolio-project-details > ul > li > a:hover {
+    color: #1DE97E;
+}
+
+.project-control-right {
+    background: #1DE97E;
+}
+
+.project-control-left {
+    background: #1DE97E;
+}
+
+.advantage-icon .fa {
+    color: #1DE97E;
+}
+
+#lionTestimonial.owl-theme .owl-nav [class*="owl-"] {
+    border-bottom: 2px solid #1DE97E;
+}
+
+.testimonial-star span {
+    color: #1DE97E;
+}
+
+.btn-default {
+    background: #1DE97E;
+}
+
+.btn-default:hover {
+    background: #FFD34E;
+}
+
+.fa.fa-check {
+    color: #1DE97E;
+}
+
+.writer {
+    background-color: #1DE97E;
+}
+
+.news-per-post:hover .read-more a,
+.news-per-post:hover .read-more span {
+    color: #1DE97E;
+}
+
+.post-icon {
+    color: #1DE97E;
+}
+
+.load-more a:hover {
+    background: #1DE97E;
+}
+
+.blog-article-media-type {
+    color: #1DE97E;
+    border: 1px solid #1DE97E;
+}
+
+.blog-article-tags ul li a {
+    background: #1DE97E;
+    border: 1px solid #1DE97E;
+}
+
+.blog-article-tags ul li a:hover {
+    color: #1DE97E;
+}
+
+.blog-articles-control a:hover {
+    color: #1DE97E;
+}
+
+.blog-author-info {
+    border-bottom: 4px solid #1DE97E;
+}
+
+.blog-article-comments .comment-content .reply a {
+    background: #1DE97E;
+    border: 1px solid #1DE97E;
+}
+
+.blog-article-comments .comment-content .reply a:hover {
+    color: #1DE97E;
+}
+
+.form-control:focus {
+    border: 1px solid #1DE97E;
+}
+
+.tags-widget ul li a {
+    background: #1DE97E;
+    border: 1px solid #1DE97E;
+}
+
+.tags-widget ul li:hover a {
+    color: #1DE97E;
+}
+
+.form-dot:focus {
+    border-color: #1DE97E;
+}
+
+.contact-me .fa {
+    background: #1DE97E;
+}
+
+.footer-bottom-content p a {
+    color: #1DE97E;
+}
+
+address span i {
+    color: #1DE97E;
+}
+
+.scrolltop a {
+    background: #1DE97E;
+}
+
+.scrolltop a:hover {
+    color: #1DE97E;
+    border: 1px solid #1DE97E;
+}
